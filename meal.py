@@ -1,3 +1,5 @@
+# Input a time in ##:## or #:## to see if its breakfast, lunch, or dinner time.
+
 def main():
     time = input("What time is it? ")
     meal = convert(time)

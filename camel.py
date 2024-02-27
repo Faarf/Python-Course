@@ -11,4 +11,4 @@ for i in camel:
 
 snake = x.lower()
 
-print("snake_code: ", snake)
+print("snake_code:", snake)
